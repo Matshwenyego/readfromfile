@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\readfromfile\readfromfile\bin\Debug\netcoreapp2.0\readfromfile.deps.json
+C:\Users\DELL\source\repos\readfromfile\readfromfile\bin\Debug\netcoreapp2.0\readfromfile.runtimeconfig.json
+C:\Users\DELL\source\repos\readfromfile\readfromfile\bin\Debug\netcoreapp2.0\readfromfile.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\readfromfile\readfromfile\bin\Debug\netcoreapp2.0\readfromfile.dll
+C:\Users\DELL\source\repos\readfromfile\readfromfile\bin\Debug\netcoreapp2.0\readfromfile.pdb
+C:\Users\DELL\source\repos\readfromfile\readfromfile\obj\Debug\netcoreapp2.0\readfromfile.csprojResolveAssemblyReference.cache
+C:\Users\DELL\source\repos\readfromfile\readfromfile\obj\Debug\netcoreapp2.0\readfromfile.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\readfromfile\readfromfile\obj\Debug\netcoreapp2.0\readfromfile.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\readfromfile\readfromfile\obj\Debug\netcoreapp2.0\readfromfile.AssemblyInfo.cs
+C:\Users\DELL\source\repos\readfromfile\readfromfile\obj\Debug\netcoreapp2.0\readfromfile.dll
+C:\Users\DELL\source\repos\readfromfile\readfromfile\obj\Debug\netcoreapp2.0\readfromfile.pdb

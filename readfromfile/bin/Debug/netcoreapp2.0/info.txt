@@ -1,0 +1,5 @@
+This is a random text file with some basic info
+1.Hello World(Every developer knows these two words!)
+2.The sky is blue
+3.Time waits for no man
+4.I think i can code
